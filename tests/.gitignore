@@ -1,0 +1,14 @@
+# Pytest cache
+__pycache__/
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Temporary files
+*.pyc
+*.pyo
+*.pyd
+*~
+.DS_Store
